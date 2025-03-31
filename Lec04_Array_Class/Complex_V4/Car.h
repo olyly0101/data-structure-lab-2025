@@ -8,7 +8,7 @@ protected:
 	char name[40]; // 이름 (private)
 public:
 	int gear; // 기어 (public)
-	Car() { } // 기본 생성자
+    Car() : speed(0), gear(0) { name[0] = '\0'; } // 기본 생성자
 	~Car() { } // 소멸자
 	Car(int s, char* n, int g): speed(s), gear(g) {
 		strcpy_s(name, sizeof(name), n); // 생성자 함수 몸체 (name 멤버 초기화)

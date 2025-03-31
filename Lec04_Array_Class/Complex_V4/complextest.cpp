@@ -1,5 +1,5 @@
 #include "Complex.h"
-//#include "Car.h"
+
 
 int main()
 {
@@ -11,10 +11,5 @@ int main()
 	b.print("B = ");
 	c.print("A+B = ");
 
-	//Car myCar;
-
-	//myCar.whereAmI();
-	//myCar.changeGear(3);
-	//myCar.speedUp();
 }
 

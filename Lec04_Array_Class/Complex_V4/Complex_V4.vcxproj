@@ -127,7 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="Car.h" />
     <ClInclude Include="Complex.h" />
   </ItemGroup>
   <ItemGroup>

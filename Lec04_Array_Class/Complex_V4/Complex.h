@@ -10,11 +10,11 @@ public:
 		real = r;
 		imag = i;
 	}
-	void read(char* msg = "복소수 = ") {
+	void read(const char* msg = "복소수 = ") {
 		printf(" %s ", msg);
-		scanf_s("%lf%lf", &real, &imag);
+		scanf_s("%1f%1f", &real, &imag);
 	}
-	void print (char* msg " 복소수 = ") {
+    void print (const char* msg = " 복소수 = ") {
 		printf(" %s %4.2f + %4.2fi\n", msg, real, imag);
 	}
 	void add(Complex a, Complex b) {
