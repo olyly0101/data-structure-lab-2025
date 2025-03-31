@@ -1,0 +1,44 @@
+﻿  complextest.cpp
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(17,24): error C2143: 구문 오류: ','이(가) '문자열' 앞에 없습니다.
+  (소스 파일 'complextest.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(7,3): error C2664: 'void Complex::read(char *)': 인수 1을(를) 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(7,9):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(13,7):
+  'Complex::read' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(7,3):
+  인수 목록 '(const char [6])'을(를) 일치시키는 동안
+  
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(8,3): error C2664: 'void Complex::read(char *)': 인수 1을(를) 'const char [6]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(8,9):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(13,7):
+  'Complex::read' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(8,3):
+  인수 목록 '(const char [6])'을(를) 일치시키는 동안
+  
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(10,3): error C2664: 'void Complex::print(char *)': 인수 1을(를) 'const char [5]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(10,10):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(17,7):
+  'Complex::print' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(10,3):
+  인수 목록 '(const char [5])'을(를) 일치시키는 동안
+  
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(11,3): error C2664: 'void Complex::print(char *)': 인수 1을(를) 'const char [5]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(11,10):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(17,7):
+  'Complex::print' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(11,3):
+  인수 목록 '(const char [5])'을(를) 일치시키는 동안
+  
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(12,3): error C2664: 'void Complex::print(char *)': 인수 1을(를) 'const char [7]'에서 'char *'(으)로 변환할 수 없습니다.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(12,10):
+  문자열 리터럴로부터의 변환은 const 한정자가 손실됩니다(/Zc:strictStrings 참조).
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(17,7):
+  'Complex::print' 선언을 참조하십시오.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\complextest.cpp(12,3):
+  인수 목록 '(const char [7])'을(를) 일치시키는 동안
+  
