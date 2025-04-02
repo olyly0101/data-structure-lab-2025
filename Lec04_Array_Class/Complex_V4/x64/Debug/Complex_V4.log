@@ -1,12 +1,12 @@
 ﻿  complextest.cpp
-C:\Users\조원희\OneDrive\바탕 화면\학교\2-1\데이터구조및프로그래밍실습\Lec04_Array_Class\Complex_V4\Complex.h(15,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(15,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
   (소스 파일 'complextest.cpp'을(를) 컴파일하는 중)
-      C:\Users\조원희\OneDrive\바탕 화면\학교\2-1\데이터구조및프로그래밍실습\Lec04_Array_Class\Complex_V4\Complex.h(15,11):
-      서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(15,11):
+  서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
   
-C:\Users\조원희\OneDrive\바탕 화면\학교\2-1\데이터구조및프로그래밍실습\Lec04_Array_Class\Complex_V4\Complex.h(15,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
+C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(15,11): warning C4477: 'scanf_s' : 서식 문자열 '%1f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'double *'입니다.
   (소스 파일 'complextest.cpp'을(를) 컴파일하는 중)
-      C:\Users\조원희\OneDrive\바탕 화면\학교\2-1\데이터구조및프로그래밍실습\Lec04_Array_Class\Complex_V4\Complex.h(15,11):
-      서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+  C:\Users\USER\Documents\data__00\Lec04_Array_Class\Complex_V4\Complex.h(15,11):
+  서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
   
-  Complex_V4.vcxproj -> C:\Users\조원희\OneDrive\바탕 화면\학교\2-1\데이터구조및프로그래밍실습\Lec04_Array_Class\x64\Debug\Complex_V4.exe
+  Complex_V4.vcxproj -> C:\Users\USER\Documents\data__00\Lec04_Array_Class\x64\Debug\Complex_V4.exe

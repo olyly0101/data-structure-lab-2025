@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DAF9E231-9EC3-49D2-AEFB-4489BC1CDDED}|Complex_V4\\Complex_V4.vcxproj|C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Complex_V4\\complextest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D04384BC-DDD5-42DB-92AA-A0494012F1F7}|SportsCar\\SportsCar.vcxproj|C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\SportsCar\\cartest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D04384BC-DDD5-42DB-92AA-A0494012F1F7}|SportsCar\\SportsCar.vcxproj|solutionrelative:SportsCar\\cartest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D04384BC-DDD5-42DB-92AA-A0494012F1F7}|SportsCar\\SportsCar.vcxproj|C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\SportsCar\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D04384BC-DDD5-42DB-92AA-A0494012F1F7}|SportsCar\\SportsCar.vcxproj|solutionrelative:SportsCar\\SportsCar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF9E231-9EC3-49D2-AEFB-4489BC1CDDED}|Complex_V4\\Complex_V4.vcxproj|C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Complex_V4\\complextest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DAF9E231-9EC3-49D2-AEFB-4489BC1CDDED}|Complex_V4\\Complex_V4.vcxproj|solutionrelative:Complex_V4\\complextest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DAF9E231-9EC3-49D2-AEFB-4489BC1CDDED}|Complex_V4\\Complex_V4.vcxproj|C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Complex_V4\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DAF9E231-9EC3-49D2-AEFB-4489BC1CDDED}|Complex_V4\\Complex_V4.vcxproj|C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Complex_V4\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DAF9E231-9EC3-49D2-AEFB-4489BC1CDDED}|Complex_V4\\Complex_V4.vcxproj|solutionrelative:Complex_V4\\Complex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27D5520D-2423-4EB9-9442-603B68A15ADA}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{27D5520D-2423-4EB9-9442-603B68A15ADA}|Lec04_Array\\Lec04_Array.vcxproj|C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{27D5520D-2423-4EB9-9442-603B68A15ADA}|Lec04_Array\\Lec04_Array.vcxproj|solutionrelative:Lec04_Array\\array_sub.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -27,10 +35,36 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SportsCar.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\SportsCar\\SportsCar.h",
+              "RelativeDocumentMoniker": "SportsCar\\SportsCar.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\SportsCar\\SportsCar.h",
+              "RelativeToolTip": "SportsCar\\SportsCar.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T00:12:39.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cartest.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\SportsCar\\cartest.cpp",
+              "RelativeDocumentMoniker": "SportsCar\\cartest.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\SportsCar\\cartest.cpp",
+              "RelativeToolTip": "SportsCar\\cartest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T00:11:55.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Complex.h",
-              "DocumentMoniker": "C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Complex_V4\\Complex.h",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Complex_V4\\Complex.h",
               "RelativeDocumentMoniker": "Complex_V4\\Complex.h",
-              "ToolTip": "C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Complex_V4\\Complex.h",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Complex_V4\\Complex.h",
               "RelativeToolTip": "Complex_V4\\Complex.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -38,24 +72,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "complextest.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Complex_V4\\complextest.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Complex_V4\\complextest.cpp",
               "RelativeDocumentMoniker": "Complex_V4\\complextest.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Complex_V4\\complextest.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Complex_V4\\complextest.cpp",
               "RelativeToolTip": "Complex_V4\\complextest.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-03-31T01:08:12.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "array_sub.cpp",
-              "DocumentMoniker": "C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp",
               "RelativeDocumentMoniker": "Lec04_Array\\array_sub.cpp",
-              "ToolTip": "C:\\Users\\\uC870\uC6D0\uD76C\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uD559\uAD50\\2-1\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp",
+              "ToolTip": "C:\\Users\\USER\\Documents\\data__00\\Lec04_Array_Class\\Lec04_Array\\array_sub.cpp",
               "RelativeToolTip": "Lec04_Array\\array_sub.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
