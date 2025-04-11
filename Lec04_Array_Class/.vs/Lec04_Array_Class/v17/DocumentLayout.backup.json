@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5DFB660C-897D-480B-9A69-E8AED6C1AAB0}|music\\music.vcxproj|C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\music\\music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{5DFB660C-897D-480B-9A69-E8AED6C1AAB0}|music\\music.vcxproj|solutionrelative:music\\music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DFB660C-897D-480B-9A69-E8AED6C1AAB0}|music\\music.vcxproj|C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\music\\music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5DFB660C-897D-480B-9A69-E8AED6C1AAB0}|music\\music.vcxproj|solutionrelative:music\\music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DFB660C-897D-480B-9A69-E8AED6C1AAB0}|music\\music.vcxproj|C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\music\\music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5DFB660C-897D-480B-9A69-E8AED6C1AAB0}|music\\music.vcxproj|solutionrelative:music\\music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D04384BC-DDD5-42DB-92AA-A0494012F1F7}|SportsCar\\SportsCar.vcxproj|C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\SportsCar\\cartest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -38,16 +38,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "music.cpp",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\music\\music.cpp",
               "RelativeDocumentMoniker": "music\\music.cpp",
-              "ToolTip": "C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\music\\music.cpp*",
-              "RelativeToolTip": "music\\music.cpp*",
+              "ToolTip": "C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\music\\music.cpp",
+              "RelativeToolTip": "music\\music.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-02T00:55:24.375Z",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "music.h",
               "DocumentMoniker": "C:\\Users\\USER\\Documents\\vsdatasttlab\\Lec04_Array_Class\\music\\music.h",
               "RelativeDocumentMoniker": "music\\music.h",
