@@ -17,6 +17,24 @@ int main()
 	// music 객체 선언 --> 사용자 입력받기 (cin 사용)
 	// 선언한 music 객체 멤버수를 하나씩 채우기
 	// 마지막으로 music 객체 my_service의 music_list에 push_back()
+	string title, artist, album;
+	int year;
+
+	cout << " 새 음악 추가하기 " << endl;
+
+	cout << "제목: ";
+	cin >> title;
+
+	cout << "아티스트: ";
+	cin >> artist;
+
+	cout << "앨범: ";
+	cin >> album;
+
+	cout << "연도: ";
+	cin >> year;
+
+	my_service.addMusic(title, artist, album, year);
 
 
 	// search music by title
